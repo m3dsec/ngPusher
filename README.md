@@ -17,6 +17,6 @@ python3 (requests,re and json module)
 you may need to modify on files to get started
  . create a repo in github & init the repo in the script working dir
  . modify on files as needed
- . launch ngPusherGITClient.py in your client machine
+ . launch ngPusherGIT.py in your client machine
  . launch sshlogin.py from an other host to get connected
 happy sshing
